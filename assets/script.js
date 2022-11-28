@@ -1,6 +1,6 @@
 const countdown = document.querySelector(".countdown");
 
-const UTC_WEDDING_TIME = '2022-12-17T12:00:00Z';
+const UTC_WEDDING_TIME = '2022-12-17T06:30:00Z';
 
 const INTERVAL_TIME = 1000;
 const DAY_PER_SECONDS = 86400;
